@@ -1,0 +1,8 @@
+prefix=/home/workspace/new1/install
+
+Name: worlds
+Description: Description of worlds
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
